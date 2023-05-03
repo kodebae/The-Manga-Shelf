@@ -3,19 +3,25 @@ An online manga library app.
 
 ## Frontend Technologies:
 
-[React]()
+[React](https://react.dev)
 
-[TypeScript]()
+[TypeScript](https://www.typescriptlang.org/docs/)
 
-[Bootstrap]()
+[Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 ## Backend Technologies
 
-[Java]()
-[Spring Boot]()
+[Java](https://docs.oracle.com/en/java/)
+[Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 ### Development Process
+> To run project you will need to have the following installed:
+
+* React
+* Typescript
+
 > initialized project frontend: create a new React project with Typescript configured
+
 ```
 npx create-react-app manga-app --template typescript
 ```

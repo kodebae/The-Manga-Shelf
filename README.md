@@ -1,4 +1,4 @@
-# 🐥 Manga Shelf Frontend 
+# 📚 The Manga Shelf Frontend 
 An online manga library app.
 ## React / TypeScript FE of project
 

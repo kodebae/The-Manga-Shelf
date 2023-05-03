@@ -1,6 +1,8 @@
 # 📚 The Manga Shelf Frontend 
 An online manga library app.
-## React / TypeScript FE of project
+
+## Frontend Technologies: React / TypeScript
+
 
 ### Development Process
 > initialized project frontend: create a new React project with Typescript configured

@@ -1,27 +1,19 @@
 import React from 'react';
 import './App.css';
+import { Navbar } from './Layouts/NavbarAndFooter/Navbar';
+import { Header } from './Layouts/Home/Header';
 
 function App() {
   return (
-    <nav className='navbar navbar-expand-lg navbar-dark main-color py-3'>
-      <div className='container-fluid'>
-        <span className='navbar-brand'>The Manga Shelf</span>
-        <button className='navbar-toggler'type='button'
-        data-bs-toggle='collapse' data-bs-target='#navbarNavDropdown'
-        aria-controls='navbarNavDropdown' aria-extended='false'
-        aria-label='Toggle Navigation'
-        >
-          <span className='navbar-toggler-icon'></span>
-          <div className='collapse navbar-collapse' id='navbarNavDropdown'>
-
-          </div>
-        </button>
-      </div>
-
-    </nav>
+    <div>
+      <Navbar />
+      <Header />
+    </div>
   );
 }
 
 export default App;
 
- 
+ // in Bootstrap everything has a "className". the corresponding data attributes allow us the capability of 
+ // assigning styles that ca even be customized further with SASS and customized CSS
+ // JSX must have parent elements, so wrap multiple imported components in a div tag

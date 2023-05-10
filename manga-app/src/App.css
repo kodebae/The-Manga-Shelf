@@ -3,7 +3,7 @@
 }
 
 .header {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("./Images/Public Images/image-2.jpg");
+  background-image: linear-gradient( rgba(255, 0, 127, 1), rgba(2, 167, 167, 1) ), url("./Images/Public Images/image-2.jpg");
   opacity: var(--mainOpacity);
   height: 25em !important;
 }
@@ -18,7 +18,7 @@
 }
 
 .main-color {
-background-color: #0e76a8 ;
+background-color: #02A7A7 ;
 }
 
 .col-image-left {

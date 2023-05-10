@@ -11,3 +11,10 @@ export const Header = () => {
         </div>
     )
 }
+
+/**
+ * * for styles:
+ * * mt= margin top. mb= margin bottom
+ * * d-flex= display flex. Bootstrap uses flexbox at it's core so we can use flexbox properties here. 
+ * 
+ */

@@ -28,3 +28,9 @@ export const Navbar = () => {
     </nav>
     )
 }
+
+/**
+ * * Collapsible nav bar is attached to target and div with same ID creates a toggled nav bar. 
+ * * The navbar features built in responsiveness. It auto scales with the screen size. 
+ * 
+ */

@@ -14,6 +14,8 @@ function App() {
 
 export default App;
 
- // in Bootstrap everything has a "className". the corresponding data attributes allow us the capability of 
- // assigning styles that ca even be customized further with SASS and customized CSS
- // JSX must have parent elements, so wrap multiple imported components in a div tag
+/**
+* * in Bootstrap everything has a "className". The corresponding data attributes allow us the capability of 
+* * assigning styles that ca even be customized further with SASS and customized CSS
+* * JSX must have parent elements, must wrap multiple imported components in a parent div tag.
+ */ 

@@ -1,4 +1,4 @@
-# 📚 The Manga Shelf Frontend 
+# 📚 The Manga Shelf Frontend Docs
 An online manga library app.
 
 ## Frontend Technologies:

@@ -3,9 +3,12 @@
 }
 
 .header {
-  background-image: linear-gradient( rgb(36, 35, 35), rgb(247, 242, 245) ), url("./Images/Public Images/image-2.jpg");
+  background-image: url("Images/Public Images/image-1.jpg");
+  background-size: cover;
+  position: relative;
   opacity: var(--mainOpacity);
-  height: 25em !important;
+  height: 400px !important;
+
 }
 
 .dark-overlay {

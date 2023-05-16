@@ -24,4 +24,10 @@ An online manga library app.
 
 ```
 npx create-react-app manga-app --template typescript
+
 ```
+
+### Licensing Credits
+#### Images
+
+(https://unsplash.com/photos/U9Gsqi07zaU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)

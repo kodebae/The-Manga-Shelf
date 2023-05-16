@@ -2,12 +2,14 @@ import React from 'react';
 import './App.css';
 import { Navbar } from './Layouts/NavbarAndFooter/Navbar';
 import { Header } from './Layouts/Home/Header';
+import { Carousel } from './Layouts/Home/Carousel';
 
 function App() {
   return (
     <div>
       <Navbar />
       <Header />
+      <Carousel />
     </div>
   );
 }

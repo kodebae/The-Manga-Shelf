@@ -3,13 +3,13 @@
 }
 
 .header {
-  background-image: linear-gradient( rgba(255, 170, 165, 1), rgb(249, 231, 239) ), url("./Images/Public Images/image-2.jpg");
+  background-image: linear-gradient( rgb(36, 35, 35), rgb(247, 242, 245) ), url("./Images/Public Images/image-2.jpg");
   opacity: var(--mainOpacity);
   height: 25em !important;
 }
 
 .dark-overlay {
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.55);
   position: absolute;
   top: 0;
   left: 0;
@@ -18,7 +18,7 @@
 }
 
 .main-color {
-background-color: #c7ecf1 ;
+background-color: #87a4c5 ;
 }
 
 .col-image-left {
